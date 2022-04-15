@@ -2,7 +2,7 @@
   "name": "url-obj-parse",
   "version": "1.0.0",
   "description": "Convert objects to a query string",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "node src/test.js"
   },
