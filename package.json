@@ -1,0 +1,15 @@
+{
+  "name": "url-obj-parse",
+  "version": "1.0.0",
+  "description": "Convert objects to a query string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Leonardo Alegre",
+    "url": "https://github.com/leodreco"
+  },
+  "license": "MIT"
+}
